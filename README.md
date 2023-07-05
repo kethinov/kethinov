@@ -5,7 +5,7 @@
   <li><a href="https://mastodon.social/@kethinov">Mastodon</a></li>
   <li><a href="https://twitter.com/kethinov">Twitter</a></li>
   <li><a href="https://www.linkedin.com/in/kethinov/">LinkedIn</a></li>
-  <li><a href="https://angel.co/u/kethinov">Wellfound</a></li>
+  <li><a href="https://wellfound.com/u/kethinov">Wellfound</a></li>
 </ul>
 
 <p>Also check out my <a href="https://www.romhacking.net/?page=hacks&genre=&platform=&game=799&category=&perpage=100&order=Date&dir=1&title=&author=kethinov&hacksearch=Go">Secret of Mana ROM hacks</a>.</p>
